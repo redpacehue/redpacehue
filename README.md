@@ -1,6 +1,6 @@
 # Hi, I'm Abdullahi👋
 
-I'm a software engineer focused on building **high-quality, user-centric web applications** — from performant, accessible frontends to reliable backend services.
+I'm a software engineer focused on building **high-quality, user-centric web applications** from performant frontends to reliable backend services.
 
 I enjoy working on products that operate at **scale**, handle **complex data**, and have **real-world impact**.
 
@@ -19,8 +19,9 @@ I enjoy working on products that operate at **scale**, handle **complex data**, 
 ##  Tech Stack
 
 ### Frontend
-- **React / TypeScript**
-- HTML5, CSS3, Tailwind 
+- **React**
+- HTML5, CSS3, Javascript (ES6+), Typescript
+- Next.js
 - State management (Redux, Zustand)
 - Data visualisation (D3)
 - Accessibility (WCAG, semantic HTML, keyboard support)
@@ -28,13 +29,15 @@ I enjoy working on products that operate at **scale**, handle **complex data**, 
 ### Backend
 - Node.js
 - Python
+- PostgreSQL
+- MongoDB
 - REST & GraphQL APIs
 - Data modelling & validation
 - Background jobs & async processing
 
 ### Platform & Tooling
 - Git, GitHub Actions
-- AWS 
+- AWS, Azure 
 - Testing (unit, integration, E2E)
 - CI/CD & automated quality checks
 
@@ -42,10 +45,10 @@ I enjoy working on products that operate at **scale**, handle **complex data**, 
 
 ##  Things I Care About
 
-- **Performance** — fast products feel better and cost less to run
-- **Accessibility by default** — inclusive software scales better
-- **Maintainability** — clean systems outlive clever code
-- **Real impact** — building things that matter outside the repo
+- **Performance** 
+- **Accessibility by default** 
+- **Maintainability** 
+- **Real impact** 
 
 ---
 
