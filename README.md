@@ -1,18 +1,19 @@
 # Hi, I'm Abdullahi👋
 
-I'm a software engineer focused on building **high-quality, user-centric web applications** from performant frontends to reliable backend services.
+I'm a software engineer focused on building high-quality, user-centric web applications.
 
-I enjoy working on products that operate at **scale**, handle **complex data**, and have **real-world impact**.
+I enjoy working on products that operate at scale, handle complex data, and have real-world impact.
 
 ---
 
 ##  What I Work On
 
-- Designing and building **modern web UIs** with React, Next, TypeScript, and CSS 
-- Turning **complex datasets** into clear, intuitive user experiences
-- Building **scalable APIs and services** to support data-heavy applications
-- Improving **performance, accessibility, and developer experience**
-- Collaborating closely with product, design, and data teams
+- Designing and building modern web UIs with React, Next, TypeScript, and CSS 
+- Turning complex datasets into clear, intuitive user experiences
+- Building scalable APIs and services to support data-heavy applications
+- Breaking down ambiguous requirements into clear technical plans
+- Supporting teammates through mentoring, reviews, and collaboration
+- Working closely with product and design to ship the right things
 
 ---
 
@@ -45,10 +46,10 @@ I enjoy working on products that operate at **scale**, handle **complex data**, 
 
 ##  Things I Care About
 
-- **Performance** 
-- **Accessibility by default** 
-- **Maintainability** 
-- **Real impact** 
+- Performance
+- Pragmatic Engineering
+- Maintainability
+- Healthy teams
 
 ---
 
