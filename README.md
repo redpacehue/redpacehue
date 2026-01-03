@@ -55,7 +55,7 @@ I enjoy working on products that operate at scale, handle complex data, and have
 
 ##  Get in Touch
 
--  [Personal Website](https://abdullahifahm.com)
+-  [Personal Website](https://abdullahifahm.com/contact)
 -  Always happy to talk about web architecture, performance, or product engineering
 
 ---
