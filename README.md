@@ -17,7 +17,7 @@ I enjoy working on products that operate at scale, handle complex data, and have
 
 ---
 
-##  Tech Stack
+##  Tech
 
 ### Frontend
 - **React**
