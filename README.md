@@ -8,7 +8,7 @@ I enjoy working on products that operate at scale, handle complex data, and have
 
 ##  What I Work On
 
-- Designing and building modern web UIs with React, Next, TypeScript, and CSS 
+- Designing and building modern web UIs 
 - Turning complex datasets into intuitive user experiences
 - Building scalable APIs and services for data-heavy applications
 - Breaking down ambiguous requirements into clear technical plans
