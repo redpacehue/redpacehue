@@ -1,6 +1,6 @@
 # Hi, I'm Abdullahi
 
-I build customer-centric products at scale. I launched [Zazzani AI](https://zazzani.co.uk) , an AI assistant that powers ambitious founders building high growth tech companies. 
+I build customer-centric products. I scaled [Zazzani AI](https://zazzani.co.uk) , an AI assistant for founders building high-growth tech companies, to 30k+ users—including Y Combinator–backed founders.
 
 
 ##  Get in Touch
