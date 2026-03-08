@@ -1,62 +1,12 @@
-# Hi, I'm Abdullahi👋
+# Hi, I'm Abdullahi
 
-I'm a software engineer focused on building high-quality, user-centric web applications.
+I build customer-centric products at scale. I launched [Zazzani AI](https://zazzani.co.uk) , an AI assistant that powers ambitious founders building high growth tech companies. 
 
-I enjoy working on products that operate at scale, handle complex data, and have real-world impact.
-
----
-
-##  What I Work On
-
-- Designing and building modern web UIs 
-- Turning complex datasets into intuitive user experiences
-- Building scalable APIs and services for data-heavy applications
-- Breaking down ambiguous requirements into clear technical plans
-- Supporting teammates through mentoring and collaboration
-- Working closely with product and design to ship the right things
-
----
-
-##  Tech
-
-### Frontend
-- **React**
-- HTML5, CSS3, Javascript (ES6+), Typescript
-- Next.js
-- State management (Redux, Zustand)
-- Data visualisation (D3)
-- Accessibility (WCAG, semantic HTML, keyboard support)
-
-### Backend
-- Node.js
-- Python
-- PostgreSQL
-- MongoDB
-- REST & GraphQL APIs
-- Data modelling & validation
-- Background jobs & async processing
-
-### Platform & Tooling
-- Git, GitHub Actions
-- AWS, Azure 
-- Testing (unit, integration, E2E)
-- CI/CD & automated quality checks
-
----
-
-##  Things I Care About
-
-- Performance
-- Pragmatic Engineering
-- Maintainability
-- Healthy teams
-
----
 
 ##  Get in Touch
 
 -  [Personal Website](https://abdullahifahm.com/contact)
--  Always happy to talk about web architecture, performance, or product engineering
+
 
 ---
 
